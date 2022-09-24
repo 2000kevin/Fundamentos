@@ -1,12 +1,15 @@
+//modificado por kevin perdomo oliva
 #include<iostream>
 using namespace std;
 int main()
 {
-	float x,y,z;
-	cout<<"ingrese primer  numeros x=";cin>>x;
-	cout<<"ingrese el segundo numero y=";cin>>y;
-	z=x+y;
-	cout<<"El resultado es "<<x<<" + "<<y<<"="<<z<<endl;
+	float k,p,o;
+	cout<<"ingrese primer  numeros k=";cin>>k;
+	cout<<"ingrese el segundo numero p=";cin>>p;
+	o=k+p;
+	cout<<"El resultado es "<<k<<" + "<<p<<"="<<o<<endl;
 
 	return 0;
 }
+
+//gracias ;)
