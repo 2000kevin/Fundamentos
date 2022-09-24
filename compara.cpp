@@ -1,17 +1,18 @@
+//modificado por kevin perdomo oliva 
 #include<iostream>
 using namespace std;
 int main()
 {
-	float a,b;
-	cout<<"ingrese a b:"; cin>>a>>b;
-	if(a>b)
+	float k,p;
+	cout<<"ingrese k p:"; cin>>k>>p;
+	if(k>p)
 	{
-	  cout<<a<<" es mayor a "<<b<<endl;
+	  cout<<k<<" es mayor k "<<p<<endl;
 
 
 	}else{
 
-	  cout<<b<<" es mayor a "<<a<<endl;
+	  cout<<p<<" es mayor k "<<k<<endl;
 
 
 	}
@@ -24,3 +25,4 @@ int main()
 
 
 }
+// gracias ;)
